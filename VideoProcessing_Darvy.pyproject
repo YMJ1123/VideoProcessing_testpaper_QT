@@ -1,0 +1,8 @@
+﻿{
+    "files": [
+        "mainwindow.py",
+        "form.ui",
+        "func.py",
+        "ui_form.py"
+    ]
+}
